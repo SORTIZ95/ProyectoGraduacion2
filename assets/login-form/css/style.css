@@ -1,0 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+
+
+
+* { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; box-sizing:border-box; }
+
+html { width: 100%; height:100%; overflow:hidden; }
+
+body {
+
+	background-image: url("../../img/fondo.jpg");
+	background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+.login {
+	position: absolute;
+	top: 44%;
+	left: 51%;
+	margin: -150px 0 0 -150px;
+	width:300px;
+	height:300px;
+	text-align: center;
+}
+.login2 {
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	margin: -230px 0 0 -230px;
+	width:495px;
+	height:300px;
+	text-align: center;
+}
+.login h1 { color: rgb(255, 255, 255); text-shadow: 0 0 5px rgba(0,0,0,1); font-size: 100%; letter-spacing:1px; text-align:center; 	font-family: 'Josefin Sans', sans-serif; }
+.login2 h1 { color: rgb(255, 255, 255); text-shadow: 0 0 5px rgba(0,0,0,1); font-size: 400%; letter-spacing:1px; text-align:center; 	font-family: 'Josefin Sans', sans-serif; }
+
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	background: rgba(0,0,0,0.3);
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	border: 1px solid rgba(0,0,0,0.3);
+	border-radius: 4px;
+	box-shadow: inset 0 -5px 45px rgba(100,100,100,0.2), 0 1px 1px rgba(255,255,255,0.2);
+	-webkit-transition: box-shadow .5s ease;
+	-moz-transition: box-shadow .5s ease;
+	-o-transition: box-shadow .5s ease;
+	-ms-transition: box-shadow .5s ease;
+	transition: box-shadow .5s ease;
+}
+input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgba(255,255,255,0.2); }
+
+.logo-login {
+
+	max-width: 240px;
+	margin-bottom: 25px;
+	display: inline-block;
+
+}
+
+#footer-section {
+
+	display: none;
+
+}
