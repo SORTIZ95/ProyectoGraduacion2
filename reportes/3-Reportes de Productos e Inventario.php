@@ -1,9 +1,5 @@
 <?php
-/**
- * User: BCalderon
- * Date: 15/02/19
- * Time: 20:16
- */
+
 
  require_once("../assets/config.php");
 

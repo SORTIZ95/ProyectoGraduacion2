@@ -119,7 +119,7 @@ h1 {
     <div style="text-align:center; line-height: 1px;"><h1> Reporte de Movimiento de Productos</h1></div>
     <div> </div>
     <div style="text-align:center; line-height: 1px;"><h2> De la Fecha <u>"$cod"</u> para la Fecha <u>"$cod2"</u> </h2></div>
-    <div style="text-align:center;"> MIREYA'S SALÓN </div>
+    <div style="text-align:center;"> AGROSERVICIO EL REGADILLO </div>
     <div> </div>
 
     <h3>Movimiento:</h3>

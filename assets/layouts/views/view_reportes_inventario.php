@@ -1,9 +1,5 @@
 <?php
-/**
- * User: Bcalderon
- * Date: 15/02/19
- * Time: 20:13
- */
+
 
 $table_name = "producto";
 $table_name2 = "marca";

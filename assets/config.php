@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: RSpro
- * Date: 22/05/16
- * Time: 14:02
- */
 
 error_reporting(E_ALL);
 
@@ -19,7 +13,7 @@ include("../classes/permissions.inc");
 
 ?>
 
-<title>AGROSERVICIO EL REGADILLO</title>
+<title>Agroservicio El Regadillo</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"> 
 
@@ -90,9 +84,10 @@ include("../classes/permissions.inc");
 <!-- Main Style -->
 <link rel="stylesheet" href="../assets/css/main.css"> 
 
-<!-- Responsive Voice -->
+<!-- Responsive Voice 
 <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
 <script> idioma = "Spanish Female"; </script> 
+-->
 
 <script type="text/javascript">            
                               

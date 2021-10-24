@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: RSpro
- * Date: 4/07/16
- * Time: 10:04
- */
+
 
 
 class Security extends App  {

@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div id="header-title">Agroservio El Regadillo</div>
+            <div id="header-title">Agroservicio El Regadillo</div>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

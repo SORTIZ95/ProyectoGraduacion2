@@ -335,11 +335,11 @@ h1 {
     </div>
 
     <div style="line-height: 2px">
-    <h2 align="center">DIST. MIREYA'S BELLEZA TOTAL</h2>
+    <h2 align="center">AGROSERVICIO EL REGADILLO TU MEJOR OPCIÓN</h2>
     </div>
 
     <div style="line-height: 1px">
-    <h3 align="center">Barrio El Porvenir, Guastatoya, El Progreso</h3>
+    <h3 align="center">San Miguel Conacaste, Sanarate, El Progreso</h3>
     </div>
  
     <br>

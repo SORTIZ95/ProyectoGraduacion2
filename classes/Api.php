@@ -1672,7 +1672,11 @@ public function hacerDevolucion($table, $data, $data_detalle) {
                     // Datos Inventario
                     $dataInventario = $query->fetch(PDO::FETCH_ASSOC);
 
-                    $existencia = $dataInventario["existencia"];
+                    $existencia = 0;
+
+                    if($dataInventario) {
+                        $existencia = $dataInventario["existencia"];
+                    }
 
                     // Nueva Existencia
                     $existencia = $existencia + $cantidad;
@@ -1872,7 +1876,7 @@ public function hacerDevolucion($table, $data, $data_detalle) {
             $mail->Port       = '587';                                    // TCP port to connect to
         
             //Recipients
-            $mail->setFrom('copicentroguastatoya2020@gmail.com', 'Sistema MIREYAS SALÓN');
+            $mail->setFrom('copicentroguastatoya2020@gmail.com', 'Sistema AGROSERVICIO EL REGADILLO');
 
             $mail->addAddress('roxanaalonzo131@gmail.com', 'Karla Alonzo');     // Add a recipient
             $mail->addAddress('copicentroguastatoya2020@gmail.com', 'Backup');     // Add a recipient

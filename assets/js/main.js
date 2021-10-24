@@ -1,12 +1,10 @@
-/**
- * Created by RSpro on 23/05/16.
- */
+
 
 function supportInfo() {
 
     swal({
         title: 'Soporte',
-        text: "Llamar: 5960 - 0502",
+        text: "Llamar: 4958 - 7218",
         type: 'info',
         cancelButtonText: 'Aceptar'
     });

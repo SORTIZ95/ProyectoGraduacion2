@@ -149,7 +149,7 @@ h1 {
 <body>
 
     <div style="text-align:center; line-height: 1px;"><h1> Recibo de Venta </h1></div>
-    <div style="text-align:center;"> MIREYA'S SALÓN </div>
+    <div style="text-align:center;"> AGROSERVICIO EL REGADILLO </div>
 
     <div style="text-align:right; float:right"> <strong>Fecha:</strong> $fecha</div>
     <div> <strong>No. venta:</strong> $idventa </div>

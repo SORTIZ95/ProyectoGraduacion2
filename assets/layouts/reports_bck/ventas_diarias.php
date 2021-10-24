@@ -116,7 +116,7 @@ h1 {
 </head>
 <body>
     <div style="text-align:center; line-height: 1px;"><h1> VENTAS DEL DIA </h1></div>
-    <div style="text-align:center;">MIREYA'S SALÓN</div>
+    <div style="text-align:center;">AGROSERVICIO EL REGADILLO</div>
     <div style="text-align:left;"><h1> Fecha: $fecha </h1></div>
     <table width="100%" border="1" align="center">
 

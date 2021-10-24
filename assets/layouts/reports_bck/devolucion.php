@@ -309,7 +309,7 @@ h1 {
 </head>
 <body>
   <div style="text-align:center; line-height: 1px;"><h1> Recibo de Devolución </h1></div>
-    <div style="text-align:center;">MIREYA'S SALÓN</div>
+    <div style="text-align:center;">AGROSERVICIO EL REGADILLO</div>
 
     <div style="text-align:right; float:right"> <strong>Fecha:</strong> $fecha</div>
     <div> <strong>No. devolución:</strong> $id_devolucion </div>

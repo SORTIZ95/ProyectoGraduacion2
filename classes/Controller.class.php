@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: RSpro
- * Date: 22/05/16
- * Time: 14:01
- */
+
 class Controller extends App
 {
 
@@ -18,7 +13,8 @@ class Controller extends App
 
         foreach($array as $key => $value) {
 
-            if($value == "NULL") {
+
+            if($value == "NULL" || $value == '') {
 
                 $string .= "NULL, ";
 

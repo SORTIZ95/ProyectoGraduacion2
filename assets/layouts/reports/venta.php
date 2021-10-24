@@ -189,11 +189,11 @@ body{
     </div>
 
     <div style="line-height: 1px">
-        <h2 align="center"> Agroservicio El Regadillo</h2>
+        <h2 align="center"> AGROSERVICIO EL REGADILLO</h2>
     </div>
 
     <div style="line-height: 1px">
-        <h3 align="center">San Miguel Conacaste, Sanarate El Progreso</h3>
+        <h3 align="center">San Miguel Conacaste, Sanarate, El Progreso</h3>
     </div>
 
         

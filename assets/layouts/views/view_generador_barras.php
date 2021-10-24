@@ -1,8 +1,5 @@
 <?php
-/**
- * User: RogerDev
- * Date: 06/03/19
- */
+
 ?>
 
 <div class="panel panel-default" xmlns="http://www.w3.org/1999/html">

@@ -299,7 +299,7 @@ h1 {
 </head>
 <body>
     <div style="text-align:center; line-height: 1px;"><h1>REPORTE DE CRÉDITOS </h1></div>
-    <div style="text-align:center;"> MIREYA'S SALÓN </div> 
+    <div style="text-align:center;"> AGROSERVICIO EL REGADILLO </div> 
     <!-- <div style="text-align:left;"><h1> Reporte de Créditos</h1></div> -->
     <div></div>
     

@@ -1,9 +1,4 @@
 <?php
-/**
- * User: Bcalderon
- * Date: 15/02/19
- * Time: 20:13
- */
 
 $table_name = "catalogoegresos";
 try {

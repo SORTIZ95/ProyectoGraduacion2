@@ -1,8 +1,5 @@
 <?php
-/**
- * User: Bcalderon
- * Date: 26/02/19
- */
+
 
 $table_name = "cliente";
 try {

@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: BCalderon
- * Date: 01/30/19
- * Time: 10:30
- */
+
 
  require_once("../assets/config.php");
 

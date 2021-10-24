@@ -116,8 +116,8 @@ h1 {
 </head>
 <body>
     <div style="text-align:center; line-height: 1px;"><h1> VENTAS DEL DIA </h1></div>
-    <div style="text-align:center; line-height: 3px;"><h2> MIREYA'S SALÓN </h2></div>    
-    <div style="text-align:center; line-height: 3px;"><h3>Barrio El Porvenir, Guastatoya, El Progreso</h3></div>
+    <div style="text-align:center; line-height: 3px;"><h2> SAN MIGUEL CONACASTE </h2></div>    
+    <div style="text-align:center; line-height: 3px;"><h3>San Miguel Conacaste, Sanarate, El Progreso</h3></div>
     
     <div style="text-align:left;"><h1> Fecha: $fecha </h1></div>
     <table width="100%" border="1" align="center">

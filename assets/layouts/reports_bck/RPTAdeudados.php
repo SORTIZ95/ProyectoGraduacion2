@@ -130,7 +130,7 @@ h1 {
 <body>
     <div style="text-align:center; line-height: 1px;"><h1> Reporte de Deudas de Clientes </h1></div>
     
-    <div style="text-align:center;"> MIREYA'S SALÓN </div> 
+    <div style="text-align:center;"> AGROSERVICIO EL REGADILLO </div> 
     <div> </div>
     <br>
     

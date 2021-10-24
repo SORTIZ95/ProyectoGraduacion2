@@ -265,9 +265,9 @@ h1 {
     <title> Llenado de Gas </title>
 </head>
 <body>
-    <div style="text-align:center; line-height: 1px;"><h1> MIREYA'S SALÓN </h1></div>
+    <div style="text-align:center; line-height: 1px;"><h1> AGROSERVICIO EL REGADILLO </h1></div>
     <div> </div>
-    <!-- <div style="text-align:center;">ESPECIAS Y DESECHABLES EBEN EZER 2</div> -->
+    <!-- <div style="text-align:center;">PRODUCTOS AGROSERVICIO EL REGADILLO</div> -->
 
     <div style="text-align:center; font-size: 14px;"><strong>Reporte de Ventas en Camiones del dia:</strong> $fecha</div>
     <br>
