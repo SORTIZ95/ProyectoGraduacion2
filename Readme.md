@@ -8,6 +8,7 @@
 5. importar base de datos que se encuenra en el codigo
 6. usuario :    Contraseña: 
 
+![image](https://user-images.githubusercontent.com/61074025/141046550-12aa6fbe-773e-4df5-82af-db63947c6999.png)
 
 Instalar XAMPP
 Nuestro tutorial de XAMPP muestra la instalación del paquete en Windows. En el caso de usar Linux o Mac OS X, el proceso de instalación puede variar.
