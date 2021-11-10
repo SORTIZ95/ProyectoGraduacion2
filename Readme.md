@@ -29,7 +29,8 @@ Antes de iniciar la instalación de XAMPP es recomendable desactivar temporalmen
 
 Paso 4: Desactivar el UAC
 También el control de cuentas de usuario (User Account Control, UAC) puede interferir en la instalación, ya que limita los derechos de escritura en la unidad de disco C:\. Para saber cómo desactivar temporalmente el UCA puedes dirigirte a las páginas de soporte de Microsoft.
-![image](https://user-images.githubusercontent.com/61074904/139559778-4154f9d2-bb40-4bb2-9f4e-f3a1c72e2763.png)
+
+https://user-images.githubusercontent.com/61074904/139559778-4154f9d2-bb40-4bb2-9f4e-f3a1c72e2763.png
 
 
 Instalar XAMPP: desactivar el UAC
