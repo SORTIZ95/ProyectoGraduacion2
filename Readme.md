@@ -20,8 +20,7 @@ Una vez descargado el paquete, puedes ejecutar el archivo .exe haciendo doble cl
 
 Paso 3: Desactivar el programa antivirus
 Serecomienda desactivar el programa antivirus hasta que todos los componentes estén instalados, ya que puede obstaculizar el proceso de instalación.
-
-https://user-images.githubusercontent.com/61074904/139559774-174cbb98-7024-427d-8455-b6101528914c.png
+![image](https://user-images.githubusercontent.com/61074904/139559774-174cbb98-7024-427d-8455-b6101528914c.png)
 
 Instalar XAMPP: desactivar el programa antivirus 
 
