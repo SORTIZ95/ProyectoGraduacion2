@@ -6,7 +6,7 @@
 3. copiar en carpeta htdocs
 4. ejecutar xampp
 5. importar base de datos que se encuenra en el codigo
-6. usuario :    Contraseña: 
+6. usuario : Admin    Contraseña: 123
 
 ![image](https://user-images.githubusercontent.com/61074025/141046550-12aa6fbe-773e-4df5-82af-db63947c6999.png)
 
@@ -124,3 +124,16 @@ Coloca los archivos PHP en la carpeta "htdocs" que se encuentra dentro de la car
 
 Paso 4
 Crea las carpetas que necesites para poner a prueba los archivos PHP bajo la carpeta "htdocs". Si creas una carpeta llamada "scripts", usa la dirección "localhost/scripts" para abrirlos en tu navegador.
+
+
+
+Paso 5
+CREAR CARPETA LLAMADA "Agroservicio" e ingresar todas las carpetas contenidas en GITHUB
+
+y por ultimo correr en local host, teniendo corrido el xampp
+
+localhost/Agroservicio
+
+USUARIO: Admin CONTRASEÑA: 123
+
+![image](https://user-images.githubusercontent.com/61074025/141047001-69803eeb-8bba-4e73-81e8-4f4954e6f40f.png)
